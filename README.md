@@ -33,5 +33,7 @@ Databases:
 
 Other Stuff:
  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&labelColor=%20%230078d4&color=%20%230078d4)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/Azure-white?style=for-the-badge&logo=microsoft%20Azure&logoColor=white&labelColor=%20%230078d4&color=%20%230078d4)
+
 
