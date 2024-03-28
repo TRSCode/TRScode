@@ -26,7 +26,8 @@ Backend:
 
 Databases:
 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> ![Static Badge](https://img.shields.io/badge/MS%20SQL%20Server-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=%23009485&labelColor=%23CC2927&color=%23CC2927)
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> ![Static Badge](https://img.shields.io/badge/MS%20SQL%20Server-white?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=%23CC2927&color=%23CC2927)
+
 
 
 
