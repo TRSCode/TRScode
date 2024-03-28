@@ -21,7 +21,8 @@ Frontend:
 
 Backend:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge"/> ![Static Badge](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=FastAPI&logoColor=%23009485&labelColor=grey&color=%23009485)
+
 
 Databases:
 
